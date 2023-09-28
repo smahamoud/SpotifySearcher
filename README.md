@@ -2,6 +2,7 @@
 
 A React application to search your favourite Artists.
 
+Launch app (https://spotify-searcher-mocha.vercel.app/)
 Click [Here](https://github.com/smahamoud/SpotifySearcher) to view the application
 
 ## Screenshots
